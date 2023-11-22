@@ -178,6 +178,8 @@ int main() {
 	system("color 0E");
 	int difficuty_level;
 	cout << "--------Welcome to The Snake Game---------" << endl << endl;
+	cout << " use w for going up  , s for moving down, a for left, d for right." << endl;
+	cout << "$ represents the fruit that you have to collect using 8 which is the sanke" << endl;
 	
 	cout << "If you collect enough money your difficulty level will increase." <<endl<< "Select your difficulty level (1-3): ";
 
